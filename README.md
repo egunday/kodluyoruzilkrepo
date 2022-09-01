@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 - Bu repo , [Patika.dev](https://app.patika.dev/paths) React Native ile Mobile App Patikası , GIT eğitiminde oluşturduğum ilk repodur. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ---
-![github.png]([url=https://www.upload.ee/image/14465164/github.png][img]https://www.upload.ee/thumb/14465164/github.png[/img][/url])
+![](https://www.upload.ee/image/14465164/github.png)
 ---
 ## Installation
 
